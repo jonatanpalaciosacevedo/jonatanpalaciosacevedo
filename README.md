@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonatanpalaciosacevedo, currently a student at the UPC in Barcelona. 
-- I mostly code in Python and I like drones :smile:
+- I mostly code in Python.
 
 <!---
 jonatanpalaciosacevedo/jonatanpalaciosacevedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
